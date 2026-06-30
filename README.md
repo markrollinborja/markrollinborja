@@ -1,4 +1,4 @@
-# Hi, I'm Mark
+# Mark Borja
 
 Automation Engineer with a background in IT support, workflow automation, and AI-powered business solutions. I enjoy building software that eliminates repetitive work, improves operational efficiency, and solves real business problems.
 
@@ -45,4 +45,4 @@ Automation Engineer with a background in IT support, workflow automation, and AI
 
 ## Connect with me
 
-LinkedIn: https://www.linkedin.com/in/mark-borja-it/
+LinkedIn: [https://www.linkedin.com/in/mark-borja-it/]
