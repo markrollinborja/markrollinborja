@@ -1,18 +1,42 @@
-# Hi, I'm Mark 👋
+# Hi, I'm Mark
 
-I'm an Automation Engineer focused on building software that solves real business problems.
+Automation Engineer with a background in IT support, workflow automation, and AI-powered business solutions. I enjoy building software that eliminates repetitive work, improves operational efficiency, and solves real business problems.
 
-## Tech Stack
+## Technical Skills
 
-- Python
+**Languages**
 - JavaScript
-- FastAPI
-- Docker
-- OpenAI API
-- Selenium
-- Playwright
-- PostgreSQL
+- Node.js
+- Google Apps Script
 
+**Automation & AI**
+- Workflow Automation
+- OpenAI API
+- Prompt Engineering
+- Puppeteer
+- Selenium
+- Zapier
+- UiPath
+
+**IT & Support**
+- Windows 10/11
+- Active Directory
+- Microsoft 365
+- Google Workspace
+- Hardware & Software Troubleshooting
+- Network Troubleshooting
+- VPN Support
+- Remote Technical Support
+
+**Tools**
+- Git
+- Asana
+- ServiceNow
+- Zendesk
+- CrashPlan
+- RingCentral
+- LogMeIn
+  
 ## Currently Building
 
 - AI Document Processing Platform
