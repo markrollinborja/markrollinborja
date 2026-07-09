@@ -1,6 +1,6 @@
 # Hi, I'm Mark Borja
 
-Backend Engineer • Automation Engineer • AI Workflow Automation
+Automation Engineer | IT Automation Specialist | AI Automation
 
 I build enterprise-style backend systems and workflow automation using Python, FastAPI, PostgreSQL, Docker, Jira Cloud, Slack, and OpenAI.
 
