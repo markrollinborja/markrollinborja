@@ -2,7 +2,7 @@
 
 Automation Engineer | IT Automation Specialist | AI Automation
 
-I build enterprise-style backend systems and workflow automation using Python, FastAPI, PostgreSQL, Docker, Jira Cloud, Slack, and OpenAI.
+I build software that automates business processes, integrates modern technologies, and solves real-world problems through practical engineering.
 
 My goal is to design practical automation solutions that solve real business problems while demonstrating production-oriented software engineering practices.
 
@@ -101,10 +101,10 @@ I'm actively preparing for opportunities as:
 ## Connect
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/mark-borja-it/
 
 Email:
-(Add your professional email)
+markrollinb@gmail.com
 
 ---
 
