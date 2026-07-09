@@ -1,48 +1,34 @@
-# Mark Borja
+Hi, I'm Mark Borja.
 
-Automation Engineer with a background in IT support, workflow automation, and AI-powered business solutions. I enjoy building software that eliminates repetitive work, improves operational efficiency, and solves real business problems.
+I'm a Software Engineer focused on backend development, workflow automation, and AI-assisted enterprise systems.
 
-## Technical Skills
+I'm currently building portfolio projects that demonstrate real-world automation using Python, FastAPI, Docker, PostgreSQL, Jira Cloud, Slack, and OpenAI.
 
-**Languages**
-- JavaScript
-- Node.js
-- Google Apps Script
+Featured Projects
 
-**Automation & AI**
-- Workflow Automation
-- OpenAI API
-- Prompt Engineering
-- Puppeteer
-- Selenium
-- Zapier
-- UiPath
+• AI IT Ticket Automation Platform
+• (Future Automation Hub)
 
-**IT & Support**
-- Windows 10/11
-- Active Directory
-- Microsoft 365
-- Google Workspace
-- Hardware & Software Troubleshooting
-- Network Troubleshooting
-- VPN Support
-- Remote Technical Support
+Current Focus
 
-**Tools**
-- Git
-- Asana
-- ServiceNow
-- Zendesk
-- CrashPlan
-- RingCentral
-- LogMeIn
-  
-## Currently Building
+• Backend Engineering
+• Enterprise Workflow Automation
+• API Integrations
+• AI Automation
+• Python
 
-- AI Document Processing Platform
-- IT Help Desk Automation
-- Business Workflow Automation
+Tech Stack
 
-## Connect with me
+Python
+FastAPI
+PostgreSQL
+Docker
+SQLAlchemy
+OpenAI
+Jira
+Slack
+Git
 
-LinkedIn: [https://www.linkedin.com/in/mark-borja-it/]
+Connect
+
+LinkedIn: https://www.linkedin.com/in/mark-borja-it/
