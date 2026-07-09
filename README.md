@@ -1,34 +1,111 @@
-Hi, I'm Mark Borja.
+# Hi, I'm Mark Borja
 
-I'm a Software Engineer focused on backend development, workflow automation, and AI-assisted enterprise systems.
+Backend Engineer • Automation Engineer • AI Workflow Automation
 
-I'm currently building portfolio projects that demonstrate real-world automation using Python, FastAPI, Docker, PostgreSQL, Jira Cloud, Slack, and OpenAI.
+I build enterprise-style backend systems and workflow automation using Python, FastAPI, PostgreSQL, Docker, Jira Cloud, Slack, and OpenAI.
 
-Featured Projects
+My goal is to design practical automation solutions that solve real business problems while demonstrating production-oriented software engineering practices.
 
-• AI IT Ticket Automation Platform
-• (Future Automation Hub)
+---
 
-Current Focus
+## Featured Project
 
-• Backend Engineering
-• Enterprise Workflow Automation
-• API Integrations
-• AI Automation
-• Python
+### AI IT Ticket Automation Platform
 
-Tech Stack
+An enterprise-style IT ticket automation platform that integrates Jira Cloud, OpenAI, Slack, and PostgreSQL to automate ticket prioritization using a hybrid Rule Engine + AI architecture.
 
-Python
-FastAPI
-PostgreSQL
-Docker
-SQLAlchemy
-OpenAI
-Jira
-Slack
-Git
+### Highlights
 
-Connect
+- Jira-first enterprise workflow
+- Rule Engine before AI architecture
+- OpenAI priority classification
+- Workflow execution tracking
+- Audit logging
+- Slack notifications
+- Operational dashboard
+- Dockerized deployment
 
-LinkedIn: https://www.linkedin.com/in/mark-borja-it/
+### Technology
+
+Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Jira Cloud • Slack • OpenAI
+
+### Repository
+
+https://github.com/markrollinborja/AI-IT-Ticket-Automation-Platform
+
+---
+
+## Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- Java
+- JavaScript
+
+### Backend
+
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- Alembic
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+### Automation
+
+- Workflow Automation
+- API Integration
+- OpenAI API
+- Jira Automation
+- Slack Integration
+
+### DevOps
+
+- Docker
+- Docker Compose
+- Git
+- GitHub
+
+---
+
+## Current Focus
+
+I'm currently focused on building portfolio projects that demonstrate:
+
+- Enterprise Backend Development
+- Workflow Automation
+- Internal Business Tools
+- AI-Assisted Automation
+- REST API Design
+- System Integration
+
+---
+
+## Career Goal
+
+I'm actively preparing for opportunities as:
+
+- Automation Engineer
+- IT Automation Engineer
+- AI Automation Engineer
+- Junior Backend Engineer
+- Internal Tools Engineer
+
+---
+
+## Connect
+
+LinkedIn:
+(Add your LinkedIn URL)
+
+Email:
+(Add your professional email)
+
+---
+
+> "Build software that solves business problems, not just technical problems."
