@@ -1,111 +1,70 @@
 # Hi, I'm Mark Borja
 
-Automation Engineer | IT Automation Specialist | AI Automation
+**SaaS Application Support | IT Support | Workflow Automation & Integrations**
 
-I build software that automates business processes, integrates modern technologies, and solves real-world problems through practical engineering.
+I combine more than five years of remote SaaS and IT support experience with hands-on workflow automation and integration engineering. My background spans ticket ownership, technical troubleshooting, escalation, documentation, REST APIs, SQL, and the development of production-oriented internal tools.
 
-My goal is to design practical automation solutions that solve real business problems while demonstrating production-oriented software engineering practices.
+I enjoy turning recurring support problems and manual business processes into reliable, auditable workflows that are easier for people to operate and support.
 
----
+## Professional Background
 
-## Featured Project
+- 5+ years of remote L1/L2 SaaS application and technical support
+- End-to-end ticket ownership: triage, reproduction, investigation, escalation, resolution, and follow-up
+- Troubleshooting with logs, SQL, REST/HTTP APIs, JSON payloads, webhooks, and integration testing
+- Knowledge-base articles, runbooks, troubleshooting guides, and customer-facing documentation
+- Microsoft 365, Google Workspace, Active Directory, MFA, VPN, Windows, and network fundamentals
+- Zendesk and Jira-based support workflows with close Product and Engineering collaboration
 
-### AI IT Ticket Automation Platform
+## Featured Project: Meridian Flow
 
-An enterprise-style IT ticket automation platform that integrates Jira Cloud, OpenAI, Slack, and PostgreSQL to automate ticket prioritization using a hybrid Rule Engine + AI architecture.
+### Enterprise Employee Workflow Automation Platform
 
-### Highlights
+[View the repository](https://github.com/markrollinborja/Enterprise-AI-Workflow-Automation-Platform)
 
-- Jira-first enterprise workflow
-- Rule Engine before AI architecture
-- OpenAI priority classification
-- Workflow execution tracking
-- Audit logging
-- Slack notifications
-- Operational dashboard
-- Dockerized deployment
+Meridian Flow is a reusable workflow-orchestration platform for employee onboarding and software-access requests. It combines configurable workflows, human approvals, business rules, AI-assisted recommendations, and MCP-powered integrations with complete operational auditability.
 
-### Technology
+**What it demonstrates:**
 
-Python • FastAPI • PostgreSQL • SQLAlchemy • Docker • Jira Cloud • Slack • OpenAI
+- Configurable JSON workflow definitions, enforced state transitions, and reusable execution logic
+- Sequential human-approval chains with manager and role-pool assignment
+- Deterministic business rules plus structured OpenAI outputs and safe failure paths
+- Agentic MCP tool calls and live integrations with Jira, Slack, and Google Calendar
+- FastAPI, Pydantic, SQLAlchemy, PostgreSQL, React, TypeScript, and Docker
+- JWT authentication and role-based authorization across six user roles
+- Retry/backoff behavior, idempotent webhooks, HMAC verification, concurrency protection, and manual recovery
+- Platform-wide audit history covering workflows, approvals, AI calls, MCP tools, and notifications
+- CI across backend, MCP server, and frontend with pytest, Ruff, MyPy, ESLint, and production builds
+- End-to-end validation against real Jira, Slack, and Google Calendar integrations
 
-### Repository
+## Companion Project: AI IT Ticket Automation Platform
 
-https://github.com/markrollinborja/AI-IT-Ticket-Automation-Platform
+[View the repository](https://github.com/markrollinborja/AI-IT-Ticket-Automation-Platform)
 
----
+An enterprise-style ticket-automation service that reacts to Jira webhooks, classifies priority with a deterministic rule engine before using AI as a fallback, applies category-based approval controls, updates Jira, sends Slack notifications, and records a complete workflow audit trail.
 
-## Technical Skills
+**Core stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Jira Cloud, Slack, OpenAI, Docker, GitHub Actions
 
-### Languages
+## Technical Strengths
 
-- Python
-- SQL
-- Java
-- JavaScript
+| Area | Tools and capabilities |
+| --- | --- |
+| SaaS & IT Support | Ticket ownership, issue reproduction, escalation, root-cause investigation, knowledge bases, runbooks, Microsoft 365, Google Workspace, Active Directory, MFA, VPN |
+| APIs & Integrations | REST, HTTP, JSON, webhooks, Jira Cloud, Slack, Google Calendar, OpenAI, MCP |
+| Backend & Data | Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, SQL, Alembic |
+| Automation | Workflow orchestration, business rules, approval chains, AI-assisted decisions, event-driven processing, internal tools |
+| Frontend | JavaScript, TypeScript, React, Vite, Tailwind CSS |
+| Reliability & Delivery | pytest, Ruff, MyPy, GitHub Actions, Docker, audit logging, retries, idempotency, concurrency controls |
 
-### Backend
+## Roles I'm Targeting
 
-- FastAPI
-- REST APIs
-- SQLAlchemy
-- Alembic
-
-### Databases
-
-- PostgreSQL
-- MySQL
-
-### Automation
-
-- Workflow Automation
-- API Integration
-- OpenAI API
-- Jira Automation
-- Slack Integration
-
-### DevOps
-
-- Docker
-- Docker Compose
-- Git
-- GitHub
-
----
-
-## Current Focus
-
-I'm currently focused on building portfolio projects that demonstrate:
-
-- Enterprise Backend Development
-- Workflow Automation
-- Internal Business Tools
-- AI-Assisted Automation
-- REST API Design
-- System Integration
-
----
-
-## Career Goal
-
-I'm actively preparing for opportunities as:
-
-- Automation Engineer
-- IT Automation Engineer
-- AI Automation Engineer
-- Junior Backend Engineer
-- Internal Tools Engineer
-
----
+- Technical Support Engineer / Application Support Engineer
+- SaaS Support Specialist / IT Support Specialist
+- Workflow Automation Engineer / Integration Engineer
+- Technical Implementation or Customer Success Engineer
 
 ## Connect
 
-LinkedIn:
-https://www.linkedin.com/in/mark-borja-it/
+- [LinkedIn](https://www.linkedin.com/in/mark-borja-it/)
+- [Email](mailto:markrollinb@gmail.com)
 
-Email:
-markrollinb@gmail.com
-
----
-
-> "Build software that solves business problems, not just technical problems."
+> Build software that solves business problems—and make it reliable enough for people to trust.
