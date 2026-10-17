@@ -26,6 +26,9 @@ Personal projects, built in 2026.
 - **[Learning Engine](https://github.com/markrollinborja/learning-engine)**: a local research app that turns public
   YouTube videos into research packages (transcripts, stats, comments), with an optional Gemini reading pipeline,
   schema-validated output and human review. FastAPI · SQLite
+- **[Animation Studio](https://github.com/markrollinborja/animation-studio)**: an AI-assisted video production
+  pipeline that turns a script, a recorded narration and an AI director's JSON plan into finished videos and
+  captioned Shorts, with cached parallel rendering. TypeScript · Node.js · FFmpeg · Whisper
 
 ## Connect
 
